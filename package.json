@@ -11,7 +11,8 @@
     "verbose": true,
     "transform": {
       "\\.[jt]sx?$": "babel-jest"
-    }
+    },
+    "collectCoverage": true
   },
   "author": "Ardianto Rannu",
   "license": "ISC",
